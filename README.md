@@ -22,8 +22,8 @@ The project is designed to simulate a real-world ETL workflow used in Data Engin
 - Matplotlib
 - VS Code
 
-## Working 
-ETL Workflow
+
+## ETL Workflow
 Extract
 Reads raw job listings data from CSV files
 
