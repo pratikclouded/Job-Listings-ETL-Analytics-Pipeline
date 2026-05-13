@@ -22,28 +22,7 @@ The project is designed to simulate a real-world ETL workflow used in Data Engin
 - Matplotlib
 - VS Code
 
-## Project Structure
-
-```bash
-Job_ETL_Project/
-│
-├── data/
-│   └── linkedin-jobs-usa.csv
-│
-├── database/
-│   └── jobs.db
-│
-├── scripts/
-│   ├── extract.py
-│   ├── transform.py
-│   ├── load.py
-│   └── analysis.py
-│
-├── main.py
-├── requirements.txt
-└── README.md
-
-
+## Working 
 ETL Workflow
 Extract
 Reads raw job listings data from CSV files
@@ -105,3 +84,25 @@ API-based data extraction
 
 Author
 Pratik Bhul
+## Project Structure
+
+```bash
+Job_ETL_Project/
+│
+├── data/
+│   └── linkedin-jobs-usa.csv
+│
+├── database/
+│   └── jobs.db
+│
+├── scripts/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   └── analysis.py
+│
+├── main.py
+├── requirements.txt
+└── README.md
+
+
